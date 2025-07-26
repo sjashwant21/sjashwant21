@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Jashwant! 👋
 
-<!--
-**sjashwant21/sjashwant21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Profession
+**Software Engineer** | **Ethical Hacker**
 
-Here are some ideas to get you started:
+## 🛠️ Top Skills & Technologies
+- Python
+- Kali Linux
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔒 Interests & Hobbies
+- Cybersecurity Enthusiast
+- AI/ML Engineering
+
+## 🌐 Connect with Me
+[My Linktree](https://linktr.ee/s_jashwant_21)
+
+## 🎶 Fun Fact
+When I'm not breaking into networks (ethically!) or training machines to learn, you'll find me breaking into song or laying down rhythms as a passionate singer and percussionist. My code isn’t the only thing with great tempo!
+
+---
+
+> “Combining the logic of code, the rhythm of music, and the creativity of hacking — that's my beat.”
