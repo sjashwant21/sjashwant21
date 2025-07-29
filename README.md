@@ -1,4 +1,4 @@
-# Hi there, I'm Jashwant! 👋
+# Hi there, I'm Shaan Jashwant! 👋
 
 ## 👨‍💻 Profession
 **Software Engineer** | **Ethical Hacker**
